@@ -12,7 +12,6 @@ import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.Pane;
 import javafx.scene.web.WebView;
 import javafx.stage.Stage;
-import youtube.YouTubeVideoPlayer;
 import youtube.entities.Activity;
 import youtube.entities.ActivityResponse;
 
